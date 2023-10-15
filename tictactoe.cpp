@@ -1,12 +1,5 @@
 /*
 Tic Tac Toe Player
-
-NOTE: This code is written for practice. Consequently, the code is:
-- more complex than it should be
-- not always optimised
-- willingly not using better alternatives provided by the standard library
-
-I will make a new version of this following best practices.
 */
 
 #include <iostream>
